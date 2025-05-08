@@ -8,7 +8,7 @@ namespace sommatif3._1
 {
     internal class Paquet : CollectionCartes
     {
-        public List<Carte> Cartes;
+        
         public Paquet() 
         {
             Initialiser();

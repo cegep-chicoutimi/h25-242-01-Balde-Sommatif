@@ -18,8 +18,6 @@
 
             Paquet p1 = new Paquet();
 
-            
-            p1.Melanger();
 
             Console.WriteLine();
             Carte c6 = p1.PrendreCarteDessus();

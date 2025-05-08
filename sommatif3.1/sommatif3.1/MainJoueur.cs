@@ -8,9 +8,10 @@ namespace sommatif3._1
 {
     internal class MainJoueur : CollectionCartes
     {
+        // propriete
         public List<Carte> Cartes { get { return _cartes; }  }
 
-        private List<Carte> _cartes;
+        // Constructeur
         public MainJoueur() 
         { 
             _cartes = new List<Carte>();
